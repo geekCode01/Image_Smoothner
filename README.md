@@ -1,3 +1,3 @@
 # Image_Smoothner
 
-![a](/Image/ss.jpeg)
+![a] (/Image/ss.jpeg)
