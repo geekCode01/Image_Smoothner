@@ -1,3 +1,3 @@
 # Image_Smoothner
-<p> hello</p>
-![a](/Image/ss.jpeg)
+
+<img src="ss.jpg" alt="Image_Smoothner">
