@@ -1,3 +1,3 @@
 # Image_Smoothner
 
-![a](/Image/ScreenShot.png)
+<img src="messi.jpg" alt="Image_Smoothner">
